@@ -1,0 +1,23 @@
+{
+    "nome": "Thiago Augusto",
+    "cidade": "Frutal",
+    "telefone": 343555555,
+    "livros_favoritos": [
+        "livroUm",
+        "livrodois",
+        "livrotrês"
+    ],
+    "hobbies": {
+        "semana": "patinação",
+        "FimdeSemana": {
+            "sabados": "Cinema",
+            "Domingo": "Parque",
+            "outros": [
+                "caminhada",
+                "corrida",
+                "netflix"
+            ]
+        }
+    }
+
+}
