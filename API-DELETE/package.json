@@ -1,0 +1,13 @@
+{
+  "name": "api-delete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Thiago Augusto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
