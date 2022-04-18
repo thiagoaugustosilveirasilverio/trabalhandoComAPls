@@ -1,0 +1,28 @@
+Para criar um projeto com APIs
+
+Ir na pasta que irá alocar os arquivos:
+abrir o gitbash e digitar
+mkdir "nome da pasta" - esse comando criará uma pasta
+
+para criar um documento NODEJS na pasta digite:
+npm init -y
+
+para  abrir o VSCode na pasta digite:
+code .
+
+
+abrindo o VSCode abra o arquivo package.json e escreva o nome do author e apague o contéudo o scripts.
+
+depois abra o terminal local do VSCode para o CMD e digite o comando:
+ npm i express
+
+crie um arquivo com a extensão js. Exemplo: index.js no VSCode.
+
+vá para um navegador e digite: localhost:3000
+
+Dará um erro dizendo que o site não existe.
+
+
+
+
+
